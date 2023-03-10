@@ -1,6 +1,5 @@
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://samholt.github.io/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/samuel-holt)
-[comment]: <> ([![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samianholt))
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Ey5aInIAAAAJ&hl=en)
 
 I'm a PhD student in the [van der Schaar lab](), a world-leading machine learning (ML) research group at the [University of Cambridge]().
