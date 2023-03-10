@@ -6,7 +6,6 @@ I'm a PhD student in the [van der Schaar lab](), a world-leading machine learnin
 My research focuses on deep machine learning methods for continuous-time control; this encompasses new forms of model-based reinforcement learning. 
 Here on GitHub you can find research projects as well as open source software developed in my spare time.
 
-Support my open source projects by sponsoring me: ![GitHub Sponsors](https://img.shields.io/github/sponsors/samholt)
 
 ---
 
