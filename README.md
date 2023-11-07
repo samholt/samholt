@@ -7,7 +7,7 @@ My research focuses on deep machine learning methods for continuous-time control
 Here on GitHub you can find research projects as well as open source software developed in my spare time.
 
 
----
+[comment]: <> (---)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=samholt&count_private=true&show_icons=false&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samholt&theme=default&show_icons=true" />
+[comment]: <> (<img align="left" src="https://github-readme-stats.vercel.app/api?username=samholt&count_private=true&show_icons=false&theme=default" />)
+[comment]: <> (<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samholt&theme=default&show_icons=true" />)
