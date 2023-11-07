@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Ey5aInIAAAAJ&hl=en)
 
 I'm a PhD student in the [van der Schaar lab](), a world-leading machine learning (ML) research group at the [University of Cambridge]().
-My research focuses on deep machine learning methods for continuous-time control; this encompasses new forms of model-based reinforcement learning. 
+My research focuses on Reinforcement Learning (model-free and model-based), Planning, Control, Transformer Architectures, Large Language Models, Generative Models, Time Series Forecasting, Symbolic Regression (discovery), Continuous-time models (ODEs, Laplace transforms), and applications to healthcare and scientific discovery.
 Here on GitHub you can find research projects as well as open source software developed in my spare time.
 
 
